@@ -159,9 +159,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.a
 https://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw
 #EXTINF:-0, group-title="Radio" radio="true", Radio Lemon Live Bengaluru
 https://stream.zeno.fm/2qnbwwr7508uv
-#EXTINF:0 tvg-name="VOV 1" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO64VqdhZsQ4jDgNjhk3f3IuzwXZ7Vc3Yz41yUnasVGtzRU8YRZmDBNwQ" group-title="Radio",VOV 1 (Radio) (VN) (Vietnamese)
+#EXTINF:0 tvg-name="VOV 1" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO64VqdhZsQ4jDgNjhk3f3IuzwXZ7Vc3Yz41yUnasVGtzRU8YRZmDBNwQ" group-title="Radio" radio="true",VOV 1 (Radio) (VN) (Vietnamese)
 http://123.29.68.10/radio/myradio001.m3u8
-#EXTINF:0 tvg-name="VOV 2" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW6txiuhnaSsJWwlMnrfPoO-aLzM8Bn0aQTF-2R7FE_xwtHBil2g28_g" group-title="Radio",VOV 2 (Radio) (VN) (Vietnamese)
+#EXTINF:0 tvg-name="VOV 2" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW6txiuhnaSsJWwlMnrfPoO-aLzM8Bn0aQTF-2R7FE_xwtHBil2g28_g" group-title="Radio" radio="true",VOV 2 (Radio) (VN) (Vietnamese)
 http://123.29.68.10/radio/myradio002.m3u8
-#EXTINF:0 tvg-name="VOV 4" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 3" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5Dceuju5j1De2MUcm3AaOiSYCDG-lxuux0Na0OdJgNp-xbZahG6zz9w" group-title="Radio",VOV 4 (Radio) (VN) (Vietnamese)
+#EXTINF:0 tvg-name="VOV 4" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 3" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5Dceuju5j1De2MUcm3AaOiSYCDG-lxuux0Na0OdJgNp-xbZahG6zz9w" group-title="Radio" radio="true",VOV 4 (Radio) (VN) (Vietnamese)
 http://123.29.68.10/radio/myradio003.m3u8
