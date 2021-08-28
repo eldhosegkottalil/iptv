@@ -145,12 +145,25 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtu
 http://cdn.asianetmobiletvplus.com/channels/polimertv_rpvpvdefkpxbafsouzockpitjldtogrr/chunks.m3u8
 #EXTINF:-1 tvg-id="SunTV.in" tvg-name="Sun TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/U30x7Y4.jpg" group-title="",Sun TV
 http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music",B4U Music 
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="hbo.com" tvg-language="English" tvg-logo="" group-title="Movies",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",Music India (360p)
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+#EXTINF:-1 tvg-id="SonySixHD.in" tvg-name="Sony Six HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Sony Six HD
+http://103.81.104.118/hls/stream10.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="SPORTS",Sony Ten 1 HD
+http://103.153.39.34:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="SPORTS",Sony Ten 2 HD
+http://103.153.39.34:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg" group-title="SPORTS",Sony Ten 3 HD
+http://103.153.39.34:8000/play/a049/index.m3u8 
+ 
+ 
 #EXTM3U
-	
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/ml/2/29/Radio_mango_logo.jpg" group-title="Radio" radio="true",Radio Mango
 https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/playlist.m3u8
 #EXTINF:-0 group-title="Radio" radio="true",Club FM 94.3
