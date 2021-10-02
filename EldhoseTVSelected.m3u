@@ -19,22 +19,22 @@ http://cdn.asianetmobiletvplus.com/channels/adngold_dibbcspwxywdcuwawgrvurjwitwb
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=723
 #EXTINF:-1 tvg-id="AnandTV.bd" tvg-name="Anand TV" tvg-country="BD" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/0IuoIXI.png" group-title="",Anand TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/du9iZ0s.png" group-title="Entertainment",Asianet Middle East
-http://tvflix02.ddns.net/MALAYALAM__ASIANET_MIDDLE_EAST/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="Asianet.in" group-title="Channels",Asianet
 https://watchindia.net:8443/live/31852/18556/1300.ts
 #EXTINF:-1 tvg-id="443" tvg-name="Asianet HD" group-title="Malayalam;Entertainment" tvg-chno="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=443&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Asianet HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=443
-#EXTINF:-1 tvg-id="181" tvg-name="Asianet Plus HD" group-title="Malayalam;Entertainment" tvg-chno="3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=181&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Asianet Plus HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=181
-#EXTINF:-1 tvg-id="459" tvg-name="Asianet Movies HD" group-title="Malayalam;Movies" tvg-chno="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=459&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Asianet Movies HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=459
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg",Asianet HD USA
 http://watchindia.net:8880/live/33253/72963/1300.m3u8
-#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="News",Asianet News
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="181" tvg-name="Asianet Plus HD" group-title="Malayalam;Entertainment" tvg-chno="3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=181&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Asianet Plus HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=181
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
 https://indo51.gcdn.co/MALYLAM-AsianetPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="459" tvg-name="Asianet Movies HD" group-title="Malayalam;Movies" tvg-chno="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=459&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Asianet Movies HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=459
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/du9iZ0s.png" group-title="Entertainment",Asianet Middle East
+http://tvflix02.ddns.net/MALAYALAM__ASIANET_MIDDLE_EAST/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="News",Asianet News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 #EXTINF:0 tvg-name="Athmeeya Yathra TV" tvg-language="Malayalum" tvg-country="IN" tvg-id="Athmeeya Yathra TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0V4q-0w3c_g8JVcS__1CCylYqA6nnZNSq6mLEoRdSb4nR8L7wmu-gvIo" group-title="Devotional",Athmeeya Yathra TV
 http://live.wmncdn.net/aylivetv/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="1690" tvg-name="BVTV" group-title="Malayalam;Devotional" tvg-chno="5" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BVTV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1690&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",BVTV
