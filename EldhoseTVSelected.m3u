@@ -14,6 +14,8 @@ http://cdn.asianetmobiletvplus.com/channels/acvutsav_021c9292219a98f899a7b74f0f3
 #EXTINF:-1 tvg-id="ADNGold.in" tvg-name="ADN Gold" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/UzPPjoH.jpg" group-title="",ADN Gold
 #EXTVLCOPT:http-user-agent=stream
 http://cdn.asianetmobiletvplus.com/channels/adngold_dibbcspwxywdcuwawgrvurjwitwbiksl/playlist.m3u8
+#EXTINF:-1 tvg-id="723" tvg-name="Amrita TV" group-title="Malayalam;Entertainment" tvg-chno="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=723&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Amrita TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=723
 #EXTINF:-1 tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="Malayalam",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="AnandTV.bd" tvg-name="Anand TV" tvg-country="BD" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/0IuoIXI.png" group-title="",Anand TV
@@ -22,6 +24,12 @@ https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 http://tvflix02.ddns.net/MALAYALAM__ASIANET_MIDDLE_EAST/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="Asianet.in" group-title="Channels",Asianet
 https://watchindia.net:8443/live/31852/18556/1300.ts
+#EXTINF:-1 tvg-id="443" tvg-name="Asianet HD" group-title="Malayalam;Entertainment" tvg-chno="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=443&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Asianet HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=443
+#EXTINF:-1 tvg-id="181" tvg-name="Asianet Plus HD" group-title="Malayalam;Entertainment" tvg-chno="3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=181&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Asianet Plus HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=181
+#EXTINF:-1 tvg-id="459" tvg-name="Asianet Movies HD" group-title="Malayalam;Movies" tvg-chno="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=459&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Asianet Movies HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=459
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg",Asianet HD
 https://is.gd/asianetclient
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg",Asianet HD USA
@@ -34,82 +42,144 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 https://indo51.gcdn.co/MALYLAM-AsianetPlus/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="Athmeeya Yathra TV" tvg-language="Malayalum" tvg-country="IN" tvg-id="Athmeeya Yathra TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0V4q-0w3c_g8JVcS__1CCylYqA6nnZNSq6mLEoRdSb4nR8L7wmu-gvIo" group-title="Devotional",Athmeeya Yathra TV
 http://live.wmncdn.net/aylivetv/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="1690" tvg-name="BVTV" group-title="Malayalam;Devotional" tvg-chno="5" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BVTV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1690&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",BVTV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1690
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/darshana-tv-channel-logo-300x300.jpg",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
+#EXTINF:-1 tvg-id="699" tvg-name="DD Malayalam" group-title="Malayalam;Entertainment" tvg-chno="6" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png",DD Malayalam
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=699
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/dd_malayalam-1.png" group-title="Malayalam", DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 tvg-id="634" tvg-name="Flower TV" group-title="Malayalam;Entertainment" tvg-chno="7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",Flower TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=634
 #EXTINF:-1 tvg-logo="http://www.flowerstv.in/wp-content/uploads/2017/12/Flowers-Logo-alpha-1.png" group-title="Malayalam", Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Garshom_TV.png" group-title="MUSIC",Garshom TV
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="harvesttv.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/HarvestTV.png" group-title="Devotional", Harvest TV
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1 tvg-id="465" tvg-name="Jaihind tv" group-title="Malayalam;News" tvg-chno="8" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=465&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Jaihind tv
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=465
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/jai_hind_tv.png" group-title="Malayalam", Jaihind TV
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-id="1455" tvg-name="Janapriyam" group-title="Malayalam;Infotainment" tvg-chno="9" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1455&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Janapriyam
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1455
+#EXTINF:-1 tvg-id="810" tvg-name="Janam TV" group-title="Malayalam;News" tvg-chno="10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=810&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Janam TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=810
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png" group-title="Malayalam", Janam TV
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="842" tvg-name="Jeevan TV" group-title="Malayalam;News" tvg-chno="11" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=842&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Jeevan TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=842
 #EXTINF:-1 tvg-id="JeevanTV.in" tvg-name="Jeevan TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/PYs1W1Y.png" group-title="",Jeevan TV
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 tvg-id="KairaliArabia.in" tvg-name="Kairali Arabia" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/dp6BvWJ.png" group-title="Entertainment",Kairali Arabia
 https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
+#EXTINF:-1 tvg-id="725" tvg-name="Kairali News" group-title="Malayalam;News" tvg-chno="12" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=725&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Kairali News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=725
 #EXTINF:-1 tvg-id="KairaliNews.in" tvg-name="Kairali News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/hXsVrIh.jpg" group-title="News",Kairali News	
 http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1 tvg-id="710" tvg-name="Kairali TV" group-title="Malayalam;Entertainment" tvg-chno="13" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=710&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Kairali TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=710
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="Kairali TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/8Di4h6t.png" group-title="Entertainment",Kairali TV
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 tvg-id="731" tvg-name="Kairali WE TV" group-title="Malayalam;Entertainment" tvg-chno="14" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=731&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Kairali WE TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=731
 #EXTINF:-1 tvg-id="KairaliWe.in" tvg-name="Kairali We" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/Z626hKz.jpg" group-title="Entertainment",Kairali We
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 tvg-id="786" tvg-name="Kappa TV" group-title="Malayalam;Music" tvg-chno="15" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png",Kappa TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=786
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/MkfPo1V.jpg" group-title="Lifestyle",Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-id="563" tvg-name="Kaumudy TV" group-title="Malayalam;Lifestyle" tvg-chno="16" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=563&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Kaumudy TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=563
 #EXTINF:-1 tvg-id="KaumudyTV.in" tvg-name="Kaumudy TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="Entertainment",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="1514" tvg-name="Kannur One" group-title="Malayalam;Entertainment" tvg-chno="17" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1514&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Kannur One
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1514
 #EXTINF:-1 tvg-id="KCLTV.in" tvg-name="KCL TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Entertainment",KCL TV
 http://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="KCV.in" tvg-name="KCV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/9YD8u4H.png" group-title="Entertainment",KCV  [Not 24/7]
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLvsbXbt/Screenshot-2021-04-27-14-36-11-379-com-not-kcvonline-1619601499754.png" group-title="Movies",KCV MOVIES
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="1606" tvg-name="Ken TV Keralam" group-title="Malayalam;Infotainment" tvg-chno="18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ken_Kerelam_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1606&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Ken TV Keralam
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1606
 #EXTINF:-1 tvg-id="KeralaVisionNews.in" tvg-name="Kerala Vision News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://nettv4u.com/uploads/23-07-2020/kerala-vision.png" group-title="News",Kerala Vision News
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtSeMwydGw6mDSZaIUaJ5bw/live
 #EXTINF:-1 tvg-id="KeralaVision.in" tvg-name="Kerala Vision" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/0XF3nLw.png" group-title="Entertainment",Kerala Vision
 http://14.199.164.20:4001/play/a0ni/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
 http://rv.imax.re:80/307202026125/307202026125/83890
+#EXTINF:-1 tvg-id="1429" tvg-name="KITE VICTERS" group-title="Malayalam;Educational" tvg-chno="19" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1429&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",KITE VICTERS
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1429
 #EXTINF:-1 tvg-id="M4TVMalayalam.au" tvg-name="M4TV Malayalam" tvg-country="AU" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/2fbxRsU.png" group-title="",M4TV Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1 tvg-id="1552" tvg-name="Malanadu TV" group-title="Malayalam;Infotainment" tvg-chno="20" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1552&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Malanadu TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1552
 #EXTINF:-1 tvg-id="Mangalam.in" tvg-name="Mangalam" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/V5nQl9m.png" group-title="News",Mangalam
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 tvg-id="662" tvg-name="Manorama News" group-title="Malayalam;News" tvg-chno="21" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=662&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Manorama News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=662
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/QWHbIYt.png" group-title="News",Manorama News
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 tvg-id="780" tvg-name="Mathrubhumi News" group-title="Malayalam;News" tvg-chno="22" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=780&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Mathrubhumi News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=780
 #EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/xlGIEnZ.png" group-title="News",Mathrubhumi News
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 tvg-id="648" tvg-name="Mazhavil Manorama" group-title="Malayalam;Entertainment" tvg-chno="23" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=648&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Mazhavil Manorama
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=648
+#EXTINF:-1 tvg-id="844" tvg-name="Mazavali Manorama HD" group-title="Malayalam;Entertainment" tvg-chno="24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=844&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Mazavali Manorama HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=844
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/xCHQrH0.png" group-title="Entertainment",Mazhavil Manorama
 https://indo51.gcdn.co/MALYLAM-MAZHAVILMANORAMA/mono.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-1.png" group-title="Entertainment",Mazhavil Manorama HD
 http://14.199.164.20:4001/play/a0p9/index.m3u8
+#EXTINF:-1 tvg-id="910" tvg-name="Media One TV" group-title="Malayalam;News" tvg-chno="25" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Media_One_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=910&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Media One TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=910
 #EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/tQvdxWo.jpg" group-title="News",Media One
 http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
 #EXTINF:-1 tvg-id="NeeCinema.in" tvg-name="Nee Cinema" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/vYme2fs.png" group-title="Movies",Nee Cinema
 https://live.neestream.com/neestream_01/nee_cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="965" tvg-name="News 18 Kerala" group-title="Malayalam;News" tvg-chno="26" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=965&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",News 18 Kerala
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=965
 #EXTINF:-1 tvg-id="News18Malayalam.in" tvg-name="News 18 Malayalam" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/D9lMLmX.png" group-title="News",News 18 Keralam 
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?rebase=on&sd=10
+#EXTINF:-1 tvg-id="1340" tvg-name="Nick Malayalam" group-title="Malayalam;Kids" tvg-chno="27" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1340&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Nick Malayalam
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1340
 #EXTINF:-1 tvg-id="OneTv.in" tvg-name="One TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/ssMOeaj.png" group-title="Entertainment",One TV
 http://137.59.86.218:1935/live/onetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pravasi.in" tvg-name="Pravasi" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/DtXRfBj.png" group-title="",Pravasi
 https://5ee50688d7b5d.streamlock.net:444/live/pravasi/playlist.m3u8
+#EXTINF:-1 tvg-id="953" tvg-name="Propex TV" group-title="Malayalam;Lifestyle" tvg-chno="28" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Propex_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=953&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Propex TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=953
 #EXTINF:-1 tvg-id="PulariTV.in" tvg-name="Pulari TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/v5urG30.png" group-title="",Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-id="739" tvg-name="Raj Music Malayalam" group-title="Malayalam;Music" tvg-chno="29" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png",Raj Music Malayalam
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=739
+#EXTINF:-1 tvg-id="650" tvg-name="Raj News Malayalam" group-title="Malayalam;News" tvg-chno="30" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=650&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Raj News Malayalam
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=650
+#EXTINF:-1 tvg-id="1221" tvg-name="Rajyoga Malayalam" group-title="Malayalam;Devotional" tvg-chno="31" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rajyoga_Malayalam.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1221&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Rajyoga Malayalam
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1221
+#EXTINF:-1 tvg-id="1618" tvg-name="Real News Kerala" group-title="Malayalam;News" tvg-chno="32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Real_News_Kerala.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1618&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Real News Kerala
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1618
 #EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-name="Real News Kerala" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/EmBpOWM.png" group-title="News",Real News Kerala HD
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RealTV.in" tvg-name="Real TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://expressott.in/uploads/tv_image/real-tv.jpg" group-title="Music",Real TV [Not 24/7]
 http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="RelaxTV" tvg-name="Relax TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://expressott.in/uploads/tv_image/relax-tv.png" group-title="Music",Relax TV [Not 24/7]
 http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="1408" tvg-name="Reporter TV" group-title="Malayalam;News" tvg-chno="33" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1408&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Reporter TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1408
 #EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/a80vdrp.jpg" group-title="News",Reporter TV
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 #EXTINF:-1 tvg-id="Rosebowl.in" tvg-name="Rosebowl" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/LBQSALM.png" group-title="",Rosebowl
 http://cdn.asianetmobiletvplus.com/channels/rosebowl_7eb4dc1f3240c8eb776d41b95bd1d197/playlist.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-name="Safari TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/LOepeP3.jpg" group-title="",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="606" tvg-name="Shalom" group-title="Malayalam;Devotional" tvg-chno="34" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=606&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Shalom
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=606
+#EXTINF:-1 tvg-id="1344" tvg-name="Sonic Malayalam" group-title="Malayalam;Kids" tvg-chno="35" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1344&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Sonic Malayalam
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1344
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-name="Surya Movies" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="Movies",Surya Movies
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226533/index.m3u8
 #EXTINF:-1 tvg-id="SuryaMusic.in" tvg-name="Surya Music" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/jsC8FC7.png" group-title="Music",Surya Music
@@ -120,8 +190,14 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
 https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
 #EXTINF:-1 tvg-id="TimeTV.in" tvg-name="Time TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/K5rlUey.png" group-title="News",Time TV
 https://cloudflare-cdn301.ottpro.in/live/timetv/playlist.m3u8
+#EXTINF:-1 tvg-id="797" tvg-name="testii" group-title="Malayalam;Lifestyle" tvg-chno="36" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakhi_TV.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=797&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",testii
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=797
+#EXTINF:-1 tvg-id="1250" tvg-name="Twenty Four News" group-title="Malayalam;News" tvg-chno="37" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1250&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Twenty Four News
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1250
 #EXTINF:-1 tvg-id="TwentyFourNews.in" tvg-name="Twenty Four News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 tvg-id="1284" tvg-name="Vignesh TV" group-title="Malayalam;Devotional" tvg-chno="38" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vignesh_TV.PNG" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1284&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Vignesh TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1284
 #EXTINF:-1 tvg-id="ZeeKeralamHD.in" tvg-name="Zee Keralam HD" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/mM0KQj7.png" group-title="",Zee Keralam Full HD
 https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeKeralamHD.in" tvg-name="Zee Keralam HD" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/mM0KQj7.png" group-title="",Zee Keralam HD
@@ -160,8 +236,39 @@ http://103.153.39.34:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="SPORTS",Sony Ten 2 HD
 http://103.153.39.34:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg" group-title="SPORTS",Sony Ten 3 HD
-http://103.153.39.34:8000/play/a049/index.m3u8 
- 
+http://103.153.39.34:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" group-title="English;Movies" tvg-chno="39" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=762
+#EXTINF:-1 tvg-id="1530" tvg-name="Sony Pix SD" group-title="English;Movies" tvg-chno="40" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png",Sony Pix SD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1530
+#EXTINF:0 tvg-id="204" tvg-name="DD Sports" group-title="Hindi;Sports" tvg-chno="41" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=204
+#EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="English;Sports" tvg-chno="42" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=460&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Star Sports Select HD1
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=460
+#EXTINF:0 tvg-id="159" tvg-name="Star Sports 1" group-title="English;Sports" tvg-chno="43" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 1
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=159
+#EXTINF:0 tvg-id="160" tvg-name="Star Sports 2" group-title="English;Sports" tvg-chno="44" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png",Star Sports 2
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=160
+#EXTINF:0 tvg-id="362" tvg-name="Star Sports Hindi 1" group-title="Hindi;Sports" tvg-chno="45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",Star Sports Hindi 1
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=362
+#EXTINF:0 tvg-id="461" tvg-name="Star Sports Select HD2" group-title="English;Sports" tvg-chno="46" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=461&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7",Star Sports Select HD2
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=461
+#EXTINF:0 tvg-id="892" tvg-name="Ten 3 HD" group-title="Hindi;Sports" tvg-chno="47" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Ten 3 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=892
+#EXTINF:0 tvg-id="514" tvg-name="Ten 1" group-title="English;Sports" tvg-chno="48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Ten 1
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=514
+#EXTINF:0 tvg-id="523" tvg-name="Ten 2" group-title="English;Sports" tvg-chno="49" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=523
+#EXTINF:0 tvg-id="524" tvg-name="Ten 3" group-title="English;Sports" tvg-chno="50" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",Ten 3
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=524
+#EXTINF:0 tvg-id="525" tvg-name="Sony Six SD" group-title="English;Sports" tvg-chno="51" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony Six SD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=525
+#EXTINF:0 tvg-id="891" tvg-name="Ten 2 HD" group-title="English;Sports" tvg-chno="52" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=891
+#EXTINF:0 tvg-id="155" tvg-name="Sony Six HD" group-title="English;Sports" tvg-chno="53" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=155
+#EXTINF:0 tvg-id="162" tvg-name="Ten 1 HD" group-title="English;Sports" tvg-chno="54" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=162
  
 #EXTM3U
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/ml/2/29/Radio_mango_logo.jpg" group-title="Radio" radio="true",Radio Mango
