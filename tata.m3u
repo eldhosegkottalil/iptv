@@ -1,11 +1,4 @@
-<html>
-	<head>
-	<title>ALL IN ONE</title>
-		<script>
-			window.location.replace("https://t.me/allinonereborn/");
-		</script>
-	</head>
-</html>
+#EXTM3U
 #EXTINF:-2 tvg-id="" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" ,t.me/allinonereborn
 https://t.me/allinonereborn
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
@@ -7025,6 +7018,4 @@ http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1117972&extens
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=282551&extension=ts
 
-<script disable-devtool-auto="" src="https://cdn.jsdelivr.net/npm/disable-devtool@latest"></script>
 
-</body>
